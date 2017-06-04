@@ -1,0 +1,41 @@
+body {
+	
+
+}
+
+img {
+
+	height:100%;
+	width:100%;
+	left:0;
+	top:0;
+	z-index: 1;
+	position:absolute;
+	opacity: 0.5;
+
+}
+
+p  {
+	position: relative;
+	z-index: 11;
+	background-color: pink;
+	margin:1000px 0px 0px 0px;
+}
+
+.logo {
+	height:100px;
+	width: auto;
+	z-index: 2;
+	opacity: 1;
+	margin-left: 200px;
+
+
+}
+.newtext {
+
+}
+
+.navbar-fixed-top {
+	background-color: #f4f7f5;
+	height: 50px;
+}
